@@ -1,0 +1,6 @@
+Feature,Type
+label,Categorical
+videoname,Non-Categorical
+original,Non-Categorical
+original_width,Continuous
+original_height,Continuous
